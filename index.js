@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
   cors({
-    origin: "https://chat-app-henna-chi.vercel.app",
+    origin: "https://chat-app-hb1u.vercel.app",
     credentials: true,
   })
 );
